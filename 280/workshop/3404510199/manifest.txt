@@ -1,0 +1,136 @@
+{
+  "AuthorId": 76561199059698518,
+  "Groups": [
+    {
+      "Floats": {
+        "_Cutoff": 0.35,
+        "_BumpScale": 0.8,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 0.54
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 0.8,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex1.png",
+        "_SpecGlossMap": "_SpecGlossMap1.png",
+        "_BumpMap": "_BumpMap1.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 0.208314687,
+        "_BumpScale": 0.8,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0,
+        "_MicrofiberFuzzIntensity": 0.3,
+        "_MicrofiberFuzzScatter": 0.3,
+        "_MicrofiberFuzzOcclusion": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "g": 0.9411765,
+          "b": 0.9411765,
+          "r": 0.9411765
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex2.png",
+        "_SpecGlossMap": "_SpecGlossMap2.png",
+        "_BumpMap": "_BumpMap2.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 0.8,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex3.png",
+        "_SpecGlossMap": "_SpecGlossMap3.png",
+        "_BumpMap": "_BumpMap3.png"
+      }
+    }
+  ],
+  "PublishDate": "2025-01-27T07:47:26.7709051Z",
+  "ItemType": "Semi-Automatic Rifle",
+  "Version": 3
+}

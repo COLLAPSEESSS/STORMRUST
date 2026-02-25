@@ -1,0 +1,39 @@
+{
+  "Version": 3,
+  "ItemType": "Chair",
+  "AuthorId": 76561198085968999,
+  "PublishDate": "2020-04-28T06:39:04.4003965Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.633276641,
+        "_BumpScale": 1.0,
+        "_Glossiness": 0.799928367,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}

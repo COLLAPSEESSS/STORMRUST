@@ -1,0 +1,49 @@
+{
+  "Groups": [
+    {
+      "Colors": {
+        "_Color": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_SpecColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_EmissionColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_DetailColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png",
+        "_EmissionMap": "_EmissionMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.2,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 0.7,
+        "_DetailNormalMapScale": 0.0,
+        "_DetailOcclusionStrength": 1.0,
+        "_DetailOverlaySmoothness": 0.0,
+        "_DetailOverlaySpecular": 0.0
+      }
+    }
+  ],
+  "Version": 3,
+  "ItemType": "Fridge",
+  "AuthorId": 76561198336885367,
+  "PublishDate": "2025-03-18T07:34:02.4552387Z"
+}

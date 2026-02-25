@@ -1,0 +1,58 @@
+{
+  "AuthorId": 76561198854057679,
+  "PublishDate": "2025-05-20T01:14:30.1355702Z",
+  "Groups": [
+    {
+      "Colors": {
+        "_Color": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_SpecColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_EmissionColor": {
+          "b": 0.0,
+          "r": 0.0,
+          "g": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "b": 0.2588235,
+          "r": 0.2588235,
+          "g": 0.2588235
+        },
+        "_DetailColor": {
+          "b": 0.696,
+          "r": 0.696,
+          "g": 0.696
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png",
+        "_DetailAlbedoMap": "none",
+        "_DetailNormalMap": "none"
+      },
+      "Floats": {
+        "_Cutoff": 0.197898954,
+        "_BumpScale": 1.05,
+        "_Glossiness": 0.970746458,
+        "_OcclusionStrength": 0.349968672,
+        "_MicrofiberFuzzIntensity": 1.0,
+        "_MicrofiberFuzzScatter": 0.0479123779,
+        "_MicrofiberFuzzOcclusion": 0.0,
+        "_DetailNormalMapScale": 0.0,
+        "_DetailOcclusionStrength": 0.0,
+        "_DetailOverlaySmoothness": 0.0291640554,
+        "_DetailOverlaySpecular": 0.0
+      }
+    }
+  ],
+  "Version": 3,
+  "ItemType": "Rocket Launcher"
+}

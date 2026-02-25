@@ -1,0 +1,37 @@
+{
+  "Version": 3,
+  "ItemType": "Armored Door",
+  "AuthorId": 76561198145693792,
+  "PublishDate": "2019-01-08T03:38:42.5900175Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_EmissionMap": "_EmissionMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 1.0,
+        "_BumpScale": 0.0,
+        "_Glossiness": 0.0,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.550797,
+          "g": 0.821867764,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.2287927,
+          "g": 0.48291564,
+          "b": 0.6099316
+        },
+        "_EmissionColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 3,
+  "ItemType": "Rug",
+  "AuthorId": 76561197960292470,
+  "PublishDate": "2020-10-31T12:29:24.1436898Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png",
+        "_EmissionMap": "_EmissionMap0.png",
+        "_DetailAlbedoMap": "none",
+        "_DetailNormalMap": "none",
+        "_DetailOcclusionMap": "none"
+      },
+      "Floats": {
+        "_Cutoff": 0.182697117,
+        "_BumpScale": 0.0,
+        "_Glossiness": 0.0,
+        "_OcclusionStrength": 1.79117191,
+        "_DetailNormalMapScale": 2.0,
+        "_DetailOcclusionStrength": 0.489,
+        "_DetailOverlaySmoothness": 1.0,
+        "_DetailOverlaySpecular": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.8304204,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.858666062,
+          "g": 0.8312567,
+          "b": 0.822677255
+        },
+        "_EmissionColor": {
+          "r": 0.529134333,
+          "g": 0.5017246,
+          "b": 0.45548445
+        },
+        "_DetailColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        }
+      }
+    }
+  ]
+}

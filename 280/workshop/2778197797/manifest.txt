@@ -1,0 +1,70 @@
+{
+  "Version": 3,
+  "ItemType": "LR300",
+  "AuthorId": 76561198028454994,
+  "PublishDate": "2022-03-20T19:10:54.8051699Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.491622657,
+        "_BumpScale": 0.9721351,
+        "_Glossiness": 1.01657569,
+        "_OcclusionStrength": 0.494400024
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.7456948,
+          "g": 0.745603561,
+          "b": 0.7370387
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    },
+    {
+      "Textures": {
+        "_MainTex": "_MainTex1.png",
+        "_OcclusionMap": "_OcclusionMap1.png",
+        "_SpecGlossMap": "_SpecGlossMap1.png",
+        "_BumpMap": "_BumpMap1.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.5,
+        "_BumpScale": 0.966580153,
+        "_Glossiness": 1.01657569,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.720273256,
+          "g": 0.737129867,
+          "b": 0.728565037
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}

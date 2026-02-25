@@ -1,0 +1,38 @@
+{
+  "Groups": [
+    {
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      }
+    }
+  ],
+  "PublishDate": "2025-03-28T15:20:52.5020645Z",
+  "ItemType": "Semi-Automatic Pistol",
+  "Version": 3,
+  "AuthorId": 76561199059698518
+}

@@ -1,0 +1,132 @@
+{
+  "Version": 3,
+  "ItemType": "AK47",
+  "AuthorId": 76561198856963952,
+  "PublishDate": "2024-06-05T13:43:22.2762185Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.766598046,
+        "_BumpScale": 0.405519158,
+        "_Glossiness": 0.666607,
+        "_OcclusionStrength": 0.444449246
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.5592709,
+          "g": 0.194806367,
+          "b": 0.1608201
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    },
+    {
+      "Textures": {
+        "_MainTex": "_MainTex1.png",
+        "_OcclusionMap": "_OcclusionMap1.png",
+        "_SpecGlossMap": "_SpecGlossMap1.png",
+        "_BumpMap": "_BumpMap1.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.766598046,
+        "_BumpScale": 0.5221754,
+        "_Glossiness": 0.672162,
+        "_OcclusionStrength": 0.4555147
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.533849657,
+          "g": 0.169384986,
+          "b": 0.152346075
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    },
+    {
+      "Textures": {
+        "_MainTex": "_MainTex2.png",
+        "_OcclusionMap": "_OcclusionMap2.png",
+        "_SpecGlossMap": "_SpecGlossMap2.png",
+        "_BumpMap": "_BumpMap2.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.7777081,
+        "_BumpScale": 0.4278291,
+        "_Glossiness": 0.66105175,
+        "_OcclusionStrength": 0.477734834
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.5253756,
+          "g": 0.160910875,
+          "b": 0.152346045
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    },
+    {
+      "Textures": {
+        "_MainTex": "_MainTex3.png",
+        "_OcclusionMap": "_OcclusionMap3.png",
+        "_SpecGlossMap": "_SpecGlossMap3.png",
+        "_BumpMap": "_BumpMap3.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.7638204,
+        "_BumpScale": 0.4666249,
+        "_Glossiness": 0.66105175,
+        "_OcclusionStrength": 0.47217986
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.51690197,
+          "g": 0.143963546,
+          "b": 0.152346075
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}

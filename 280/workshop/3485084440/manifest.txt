@@ -1,0 +1,38 @@
+{
+  "AuthorId": 76561198068628145,
+  "PublishDate": "2025-05-21T04:40:12.1407681Z",
+  "Groups": [
+    {
+      "Colors": {
+        "_Color": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_SpecColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        },
+        "_EmissionColor": {
+          "b": 1.0,
+          "r": 1.0,
+          "g": 1.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_EmissionMap": "_EmissionMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 0.15,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0
+      }
+    }
+  ],
+  "Version": 3,
+  "ItemType": "Garage Door"
+}

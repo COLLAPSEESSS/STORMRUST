@@ -1,0 +1,45 @@
+{
+  "Version": 3,
+  "ItemType": "Sleeping Bag",
+  "AuthorId": 76561198308475090,
+  "PublishDate": "2018-09-09T08:49:33.6611826Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "none"
+      },
+      "Floats": {
+        "_Cutoff": 0.356,
+        "_BumpScale": 0.0,
+        "_Glossiness": 1.049906,
+        "_OcclusionStrength": 0.0,
+        "_MicrofiberFuzzIntensity": 0.106,
+        "_MicrofiberFuzzScatter": 0.5,
+        "_MicrofiberFuzzOcclusion": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "AuthorId": 76561198111719045,
+  "Groups": [
+    {
+      "Floats": {
+        "_Cutoff": 0.18,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 0.7
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 0.7
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex1.png",
+        "_OcclusionMap": "_OcclusionMap1.png",
+        "_SpecGlossMap": "_SpecGlossMap1.png",
+        "_BumpMap": "_BumpMap1.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 0.7
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex2.png",
+        "_OcclusionMap": "_OcclusionMap2.png",
+        "_SpecGlossMap": "_SpecGlossMap2.png",
+        "_BumpMap": "_BumpMap2.png"
+      }
+    },
+    {
+      "Floats": {
+        "_Cutoff": 1.0,
+        "_BumpScale": 0.3,
+        "_Glossiness": 1.0,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_SpecColor": {
+          "g": 1.0,
+          "b": 1.0,
+          "r": 1.0
+        },
+        "_EmissionColor": {
+          "g": 0.0,
+          "b": 0.0,
+          "r": 0.0
+        }
+      },
+      "Textures": {
+        "_MainTex": "_MainTex3.png",
+        "_SpecGlossMap": "none",
+        "_BumpMap": "none"
+      }
+    }
+  ],
+  "PublishDate": "2024-11-19T19:33:37.3949283Z",
+  "ItemType": "AK47",
+  "Version": 3
+}

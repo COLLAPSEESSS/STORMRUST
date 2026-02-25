@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "ItemType": "Thompson",
+  "AuthorId": 76561198026370090,
+  "PublishDate": "2022-02-14T10:02:22.4227675Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.5478676,
+        "_BumpScale": 1.0,
+        "_Glossiness": 1.08323634,
+        "_OcclusionStrength": 0.02083147
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}

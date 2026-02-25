@@ -1,0 +1,49 @@
+{
+  "Version": 3,
+  "ItemType": "Hoodie",
+  "AuthorId": 76561198026370090,
+  "PublishDate": "2022-04-04T13:09:58.6741323Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_OcclusionMap": "_OcclusionMap0.png",
+        "_SpecGlossMap": "_SpecGlossMap0.png",
+        "_BumpMap": "_BumpMap0.png",
+        "_DirtColor": "none"
+      },
+      "Floats": {
+        "_Cutoff": 0.322887748,
+        "_BumpScale": 1.0,
+        "_Glossiness": 0.866589069,
+        "_OcclusionStrength": 0.6678024,
+        "_MicrofiberFuzzIntensity": 0.0,
+        "_MicrofiberFuzzScatter": 0.0,
+        "_MicrofiberFuzzOcclusion": 0.0,
+        "_DirtAmount": 0.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}

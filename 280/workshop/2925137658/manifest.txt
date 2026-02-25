@@ -1,0 +1,37 @@
+{
+  "Version": 3,
+  "ItemType": "Sheet Metal Door",
+  "AuthorId": 76561199030556198,
+  "PublishDate": "2023-01-29T01:34:04.3562981Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png",
+        "_EmissionMap": "_EmissionMap0.png"
+      },
+      "Floats": {
+        "_Cutoff": 1.0,
+        "_BumpScale": 0.7499329,
+        "_Glossiness": 0.0,
+        "_OcclusionStrength": 1.14434183
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.499954164,
+          "g": 0.550706267,
+          "b": 0.5336673
+        },
+        "_SpecColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_EmissionColor": {
+          "r": 0.5253756,
+          "g": 0.491389751,
+          "b": 0.516720057
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "ItemType": "Mp5",
+  "AuthorId": 76561197986183647,
+  "PublishDate": "2016-12-03T03:40:23.8542462Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 1.0,
+        "_Glossiness": 0.888,
+        "_OcclusionStrength": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 0.9558824,
+          "g": 0.9558824,
+          "b": 0.9558824
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}
